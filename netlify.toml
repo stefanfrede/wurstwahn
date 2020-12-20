@@ -1,0 +1,59 @@
+[[redirects]]
+  from = "http://www.wurstwahn.de/*"
+  to = "https://der.wurstwahn.de"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.wurstwahn.de/*"
+  to = "https://der.wurstwahn.de"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://wurstwahn.de/*"
+  to = "https://der.wurstwahn.de"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://wurstwahn.de/*"
+  to = "https://der.wurstwahn.de"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.wurstvan.de/*"
+  to = "https://der.wurstwahn.de"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.wurstvan.de/*"
+  to = "https://der.wurstwahn.de"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://der.wurstvan.de/*"
+  to = "https://der.wurstwahn.de"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://der.wurstvan.de/*"
+  to = "https://der.wurstwahn.de"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://wurstvan.de/*"
+  to = "https://der.wurstwahn.de"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://wurstvan.de/*"
+  to = "https://der.wurstwahn.de"
+  status = 301
+  force = true
